@@ -42,4 +42,4 @@
 </div>
 
 ###
-https://count.getloli.com/@:takezosec
+<img src="https://count.getloli.com/@:takezosec?theme=booru-lewd" alt=":takezosec" />
