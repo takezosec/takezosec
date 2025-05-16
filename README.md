@@ -42,3 +42,5 @@
 </div>
 
 ###
+https://count.getloli.com/@:takezosec
+<img src="https://count.getloli.com/@:takezosec" alt=":takezosec" />
